@@ -1,5 +1,5 @@
 ---
 title: Home
 layout: about
-permalink: "/"
+permalink: "/home"
 ---
