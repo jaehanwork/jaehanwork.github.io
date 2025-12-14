@@ -13,7 +13,8 @@ layout: default
     {% assign sorted_experience = site.data.experience | sort: "order" | reverse %}
     {% for experience in sorted_experience %}
     <div class="ap-experience">
-        <p class="ap-experience-title">{{experience.title}}, <a href="{{experience.institute_url}}" target="_blank" rel="noopener noreferrer">{{experience.institute}}</a></p>
+        <p class="ap-experience-institute"><a href="{{experience.institute_url}}" target="_blank" rel="noopener noreferrer">{{experience.institute}}</a></p>
+        <p class="ap-experience-title">{{experience.title}}</p>
         <p class="ap-experience-year">{{experience.duration}}</p>
         <p class="ap-experience-excerpt">{{experience.excerpt}}</p>
         <p class="ap-experience-tags">

@@ -116,15 +116,21 @@ a:hover {
     margin: 16px 0px;
 }
 
-.ap-experience-title {
+.ap-experience-institute {
     font-family: "DM Sans", sans-serif;
     font-size: 18px;
     font-weight: 600;
 }
 
-.ap-experience-title a {
+.ap-experience-institute a {
     color: $link;
     text-decoration: none;
+}
+
+.ap-experience-title {
+    font-family: "DM Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 500;
 }
 
 .ap-experience-year {
