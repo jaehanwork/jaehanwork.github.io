@@ -1,0 +1,127 @@
+name: Arnob Karmokar
+tagline: Electrical and Electronic Engineer
+career-objective: This is a GitHub Pages template for academic portfolio websites. Fork <a href="https://github.com/academicportfolio/academicportfolio.github.io">this repository</a> to get started. This section will be replaced by your career objective. Read the README of the repository to learn about customizing the site.
+color-theme: red # red or blue
+avatar-filename: avatar.png # Change to your avatar's filename
+url: academicportfolio.github.io
+baseurl: /
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Social Information
+social:
+  email: 
+    visibility: true
+    mail: contact@arnob.me
+  github: 
+    visibility: true
+    handle: arnobk
+  linkedin: 
+    visibility: true
+    handle: arnobkarmokar
+  twitter: 
+    visibility: true
+    handle: arnobdotme
+
+# Collections
+collections:
+  experience:
+    output: false
+    sort_by: order
+  education:
+    output: false
+    sort_by: order
+  projects:
+    output: true
+    sort_by: year
+  skills:
+    output: false
+    sort_by: order
+  publications:
+    output: true
+    sort_by: year
+  volunteerexperience:
+    output: false
+    sort_by: order
+  certifications:
+    output: false
+    sort_by: year
+  achievements:
+    output: false
+    sort_by: year
+
+# About Page Options
+collection_option:
+  experience: 
+    label: Experience
+    visibility: true
+  education: 
+    label: Education
+    visibility: true
+  projects: 
+    label: Projects
+    visibility: true
+  skills: 
+    label: Technical Skills
+    visibility: true
+  publications: 
+    label: Publications
+    visibility: true
+  volunteerexperience: 
+    label: Volunteer Experience
+    visibility: true
+  certifications: 
+    label: Certifications
+    visibility: true
+  achievements: 
+    label: Achievements
+    visibility: true
+
+navigation:
+- title: About
+  url: /
+- title: Blog
+  url: /blog/
+- title: Contact
+  url: /contact
+
+include:
+  - _pages
+
+exclude:
+  - readme.md
+
+# Defaults
+defaults:
+  - scope:
+      path: ''
+      type: posts
+    values:
+      permalink: /:categories/:year/:month/:title
+      layout: post
+      comments: true
+  - scope:
+      path: ''
+      type: projects
+    values:
+      permalink: /projects/:title
+      layout: project
+      comments: false
+  - scope:
+      path: ''
+      type: publications
+    values:
+      permalink: /publications/:title
+      layout: publication
+      comments: false
+
+# Disqus Comment
+disqus:
+  shortname: academic-portfolio # Change with your own disqus shortname
+
+# Contact Form
+formspree:
+  endpoint: https://formspree.io/f/xdorkgkv # Change with your own form's endpoint
+
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
