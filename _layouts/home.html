@@ -10,10 +10,10 @@ layout: default
 <!-- WORK EXPERIENCE -->
 <div class="ap-block">
     <p class="ap-subtitle">{{site.collection_option['experience']['label']}}</p>
-    {% assign sorted_experience = site.experience | sort: "order" %}
+    {% assign sorted_experience = site.data.experience | sort: "order" | reverse %}
     {% for experience in sorted_experience %}
     <div class="ap-experience">
-        <p class="ap-experience-title">{{experience.title}}, <a href="{{experience.institute-url}}">{{experience.institute}}</a></p>
+        <p class="ap-experience-title">{{experience.title}}, <a href="{{experience.institute_url}}">{{experience.institute}}</a></p>
         <p class="ap-experience-year">{{experience.duration}}</p>
         <p class="ap-experience-excerpt">{{experience.excerpt}}</p>
         <p class="ap-experience-tags">
@@ -31,7 +31,7 @@ layout: default
 <!-- EDUCATION -->
 <div class="ap-block">
     <p class="ap-subtitle">{{site.collection_option['education']['label']}}</p>
-    {% assign sorted_education = site.education | sort: "order" %}
+    {% assign sorted_education = site.data.education | sort: "order" | reverse %}
     {% for education in sorted_education %}
     <div class="ap-education">
         <p class="ap-education-degree">{{education.degree}}</p>
@@ -52,7 +52,7 @@ layout: default
     {% assign sorted_awards = site.awards | sort: "order" %}
     {% for awards in sorted_awards %}
     <div class="ap-awards">
-        <p class="ap-awards-degree">{{awards.degree}}</p>
+        <p class="ap-awards-name">{{awards.name}}</p>
         <p class="ap-awards-institute">{{awards.institute}}</p>
         <p class="ap-awards-year">{{awards.duration}}</p>
         <p class="ap-awards-excerpt">{{awards.excerpt}}</p>
