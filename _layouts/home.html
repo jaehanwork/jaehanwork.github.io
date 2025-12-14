@@ -44,6 +44,24 @@ layout: default
 </div>
 {% endif %}
 
+{% if site.collection_option['awards']['visibility'] == true %}
+<div class="ap-line"></div>
+<!-- AWARDS -->
+<div class="ap-block">
+    <p class="ap-subtitle">{{site.collection_option['awards']['label']}}</p>
+    {% assign sorted_awards = site.awards | sort: "order" %}
+    {% for awards in sorted_awards %}
+    <div class="ap-awards">
+        <p class="ap-awards-degree">{{awards.degree}}</p>
+        <p class="ap-awards-institute">{{awards.institute}}</p>
+        <p class="ap-awards-year">{{awards.duration}}</p>
+        <p class="ap-awards-excerpt">{{awards.excerpt}}</p>
+    </div>
+    {% endfor %}
+
+</div>
+{% endif %}
+
 {% if site.collection_option['skills']['visibility'] == true %}
 <div class="ap-line"></div>
 <!-- SKILLS -->
