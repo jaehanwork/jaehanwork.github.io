@@ -37,9 +37,9 @@ collections:
   # awards:
   #   output: false
   #   sort_by: order
-  publications:
-    output: true
-    sort_by: year
+  # publications:
+  #   output: true
+  #   sort_by: year
 
 # Home Page Options
 collection_option:
