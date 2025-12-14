@@ -1,6 +1,6 @@
 ---
-degree: Korea Science Academy
-# institute: Korea Advanced Institute of Science and Technology (KAIST)
+degree: High School Diploma
+institute: Korea Science Academy (KSA)
 duration: 2012 - 2015
 # excerpt:
 order: 4
