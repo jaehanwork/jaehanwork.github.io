@@ -1,21 +1,14 @@
 ---
 layout: default
 ---
-
-<h2 class="ap-publication-title-single">{{page.title}}</h2>
-<p class="ap-publication-timestamp-single">{{page.year}}</p>
-<img class="ap-publication-featured-single" src="{{page.pub-image}}"/>
-{% if page.pub-url %}
-<br>
-<p class="ap-publication-url-single">URL: <a href="{{page.pub-url}}" target="_blank">{{page.pub-url}}</a></p>
-{% endif %}
-
-{% if content %}
-<div class="ap-publication-content">
-    <h2>Publication Details</h2>
-    {{content}}
+<!-- PUBLICATIONS LIST -->
+<div class="ap-block">
+    <p class="ap-subtitle">Publications</p>
+    {% assign sorted_publications = site.data.publications | sort: "year" | reverse %}
+    {% for publication in sorted_publications %}
+    <div class="ap-publication">
+        <p class="ap-publication-title-list">{{publication.title}}</p>
+        <p class="ap-publication-excerpt">{{publication.authors}}. <em>{{publication.venue}}</em>{% if publication.note %} ({{publication.note}}){% endif %}{% if publication.award %} <strong style="color:#862B0D;">({{publication.award}})</strong>{% endif %}</p>
+    </div>
+    {% endfor %}
 </div>
-{% endif %}
-{% if site.disqus.shortname %}
-  {% include disqus.html %}
-{% endif %}
