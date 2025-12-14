@@ -79,7 +79,7 @@ collection_option:
 
 navigation:
 - title: Home
-  url: /home
+  url: /
 - title: Publications
   url: /publications
 - title: Contact
