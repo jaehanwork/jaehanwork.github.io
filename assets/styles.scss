@@ -258,7 +258,13 @@ a:hover {
 }
 
 .ap-publication {
-    margin: 16px 0px;
+    margin: 24px 0px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #eee;
+}
+
+.ap-publication:last-child {
+    border-bottom: none;
 }
 
 .ap-publication-title {
@@ -269,9 +275,35 @@ a:hover {
     text-decoration: none;
 }
 
+.ap-publication-title-list {
+    font-family: "DM Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 6px;
+    line-height: 1.4em;
+}
+
 .ap-publication-title:hover {
     text-decoration: underline;
     color: $link !important;
+}
+
+.ap-publication-authors {
+    font-family: "DM Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #555;
+    margin-bottom: 4px;
+    line-height: 1.4em;
+}
+
+.ap-publication-venue {
+    font-family: "DM Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #777;
+    line-height: 1.4em;
 }
 
 .ap-publication-year {

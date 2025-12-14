@@ -1,10 +1,15 @@
+# Publications ordered as in CV
+
+# Journal Papers
 - title: "PassREfinder-FL: Privacy-Preserving Credential Stuffing Risk Prediction via Graph-Based Federated Learning for Representing Password Reuse between Websites"
   year: 2025
   authors: "<strong>J. Kim</strong>, M. Song, M. Seo, Y. Jin, S. Shin, J. Kim"
   venue: "Elsevier Expert Systems with Applications (ESWA)"
   note: "to appear"
   type: journal
+  order: 1
 
+# Conference Papers
 - title: "MoEvil: Poisoning Expert to Compromise the Safety of Mixture-of-Experts LLMs"
   year: 2025
   authors: "<strong>J. Kim</strong>, S.H. Na, M. Song, S. Shin, S. Son"
@@ -12,66 +17,78 @@
   note: "to appear"
   award: "Distinguished Paper Award"
   type: conference
+  order: 2
 
 - title: "Obliviate: Neutralizing Task-Agnostic Backdoors within the Parameter-Efficient Fine-Tuning Paradigm"
   year: 2025
   authors: "<strong>J. Kim</strong>, M. Song, S.H. Na, S. Shin"
   venue: "The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Findings)"
   type: conference
+  order: 3
 
 - title: "Claim-Guided Textual Backdoor Attack for Practical Applications"
   year: 2025
   authors: "M. Song, H. Kim, <strong>J. Kim</strong>, Y. Jin, S. Shin"
   venue: "The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Findings)"
   type: conference
+  order: 4
 
 - title: "Refusal Is Not an Option: Unlearning Safety Alignment of Large Language Models"
   year: 2025
   authors: "M. Song, H. Kim, <strong>J. Kim</strong>, S. Shin, S. Son"
   venue: "34th USENIX Security Symposium (USENIX Security 2025)"
   type: conference
+  order: 5
 
 - title: "Covering Cracks in Content Moderation: Delexicalized Distant Supervision for Illicit Drug Jargon Detection"
   year: 2025
   authors: "M. Song, E. Jang, <strong>J. Kim</strong>, S. Shin"
   venue: "31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025)"
   type: conference
+  order: 6
 
 - title: "MUFFLER: Secure Tor Traffic Obfuscation with Dynamic Connection Shuffling and Splitting"
   year: 2025
   authors: "M. Seo, M. You, <strong>J. Kim</strong>, T. Park, S. Shin, J. Kim"
   venue: "2025 IEEE International Conference on Computer Communications (INFOCOM 2025)"
   type: conference
+  order: 7
 
 - title: "CryptoGuard: Lightweight Hybrid Detection and Prevention of Host-Based Cryptojackers"
   year: 2025
   authors: "G. Park, <strong>J. Kim</strong>, J. Choi, J. Kim"
   venue: "Proceedings of the 19th ACM Asia Conference on Computer and Communications Security (ASIACCS 2025)"
   type: conference
+  order: 8
 
 - title: "AVXProbe: Enhancing Website Fingerprinting with Side-Channel Assisted Kernel-Level Traces"
   year: 2025
   authors: "S. Kim, S.H. Na, <strong>J. Kim</strong>, S. Shin, H. Choi"
   venue: "Proceedings of the 19th ACM Asia Conference on Computer and Communications Security (ASIACCS 2025)"
   type: conference
+  order: 9
 
 - title: "PassREfinder: Credential Stuffing Risk Prediction by Representing Password Reuse between Websites on a Graph"
   year: 2024
   authors: "<strong>J. Kim</strong>, M. Song, M. Seo, Y. Jin, S. Shin"
   venue: "2024 IEEE Symposium on Security and Privacy (S&P 2024)"
   type: conference
+  order: 10
 
 - title: "HardWhale: A Hardware-Isolated Network Security Enforcement System for Cloud Environments"
   year: 2024
   authors: "M. You, J. Nam, H. Seo, M. Seo, <strong>J. Kim</strong>, D. Choi, S. Shin"
   venue: "2024 IEEE 44th International Conference on Distributed Computing Systems (ICDCS 2024)"
   type: conference
+  order: 11
 
+# Journal Papers (2024)
 - title: "Hyperion: Hardware-Based High-Performance and Secure System for Container Networks"
   year: 2024
   authors: "M. You, M. Seo, <strong>J. Kim</strong>, S. Shin, J. Nam"
-  venue: "IEEE Transactions on Cloud Computing 2024 (TCC 2024)"
+  venue: "IEEE Transactions on Cloud Computing (TCC 2024)"
   type: journal
+  order: 12
 
 - title: "gShock: A GNN-based Fingerprinting System for Permissioned Blockchain Networks over Encrypted Channels"
   year: 2024
@@ -79,6 +96,7 @@
   venue: "IEEE Access 2024"
   note: "*equally contributed"
   type: journal
+  order: 13
 
 - title: "CENSor: Detecting Illicit Bitcoin Operation via GCN-Based Hyperedge Classification"
   year: 2024
@@ -86,24 +104,29 @@
   venue: "IEEE Access 2024"
   note: "*equally contributed"
   type: journal
+  order: 14
 
+# 2022 Papers
 - title: "Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic"
   year: 2022
   authors: "M. Seo, <strong>J. Kim</strong>, E. Marin, M. You, T. Park, S. Lee, S. Shin, J. Kim"
   venue: "Proceedings of the 38th Annual Computer Security Applications Conference (ACSAC 2022)"
   type: conference
+  order: 15
 
 - title: "FuzzDocs: An Automated Security Evaluation Framework for IoT"
   year: 2022
   authors: "M. You, Y. Kim, <strong>J. Kim</strong>, M. Seo, S. Son, S. Shin, S. Lee"
   venue: "IEEE Access 2022"
   type: journal
+  order: 16
 
 - title: "Revisiting Security Landscape of Docker Hub Container"
   year: 2022
   authors: "M. You, <strong>J. Kim</strong>, S. Shin"
   venue: "The Journal of Korean Institute of Communications and Information Sciences 2022"
   type: journal
+  order: 17
 
 - title: "A Large-Scale Bitcoin Abuse Measurement and Clustering Analysis Utilizing Public Reports"
   year: 2022
@@ -111,3 +134,4 @@
   venue: "IEICE Transactions on Information and Systems 2022"
   note: "*equally contributed"
   type: journal
+  order: 18
