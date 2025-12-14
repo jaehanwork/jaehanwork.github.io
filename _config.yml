@@ -34,9 +34,9 @@ collections:
   education:
     output: false
     sort_by: order
-  awards:
-    output: false
-    sort_by: order
+  # awards:
+  #   output: false
+  #   sort_by: order
   publications:
     output: true
     sort_by: year
@@ -49,17 +49,17 @@ collection_option:
   education: 
     label: Education
     visibility: true
-  awards: 
-    label: Awards
-    visibility: true
+  # awards: 
+  #   label: Awards
+  #   visibility: true
 
 navigation:
 - title: Home
   url: /
 - title: Publications
   url: /publications
-# - title: Contact
-#   url: /contact
+- title: Awards
+  url: /awards
 
 include:
   - _pages
