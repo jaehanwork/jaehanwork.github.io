@@ -41,7 +41,7 @@
             <ul>
                 {% for item in site.navigation %}
                 <li><a href={{item.url | relative_url}}
-                        class="{% if item.url == page.url or (item.url == '/home' and page.url == '/') %}ap-active{% endif %}">{{item.title}}</a></li>
+                        class="{% if item.url == page.url or (item.title == 'Home' and page.url == '/') %}ap-active{% endif %}">{{item.title}}</a></li>
                 {% endfor %}
             </ul>
         </nav>
