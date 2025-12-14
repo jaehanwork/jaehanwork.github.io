@@ -198,10 +198,22 @@ a:hover {
     font-weight: 600;
 }
 
+.ap-awards-name-list {
+    font-family: "DM Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: #444444;
+    margin-bottom: 6px;
+    line-height: 1.4em;
+}
+
+
 .ap-awards-institute {
     font-family: "DM Sans", sans-serif;
     font-size: 16px;
     font-weight: 500;
+    margin-bottom: 6px;
+    line-height: 1.4em;
 }
 
 .ap-awards-year {
@@ -215,8 +227,9 @@ a:hover {
 .ap-awards-excerpt {
     font-family: "DM Sans", sans-serif;
     font-weight: 400;
-    line-height: 1.3em;
     font-size: 16px;
+    margin-bottom: 6px;
+    line-height: 1.4em;
 }
 
 .ap-skill-category {
