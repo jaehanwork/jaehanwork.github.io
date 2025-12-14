@@ -112,7 +112,7 @@ defaults:
       type: publications
     values:
       permalink: /publications/:title
-      layout: publication
+      layout: publications
       comments: false
 
 # Disqus Comment
