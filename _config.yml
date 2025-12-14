@@ -49,9 +49,9 @@ collection_option:
   education: 
     label: Education
     visibility: true
-  # awards: 
-  #   label: Awards
-  #   visibility: true
+  awards: 
+    label: Awards
+    visibility: true
 
 navigation:
 - title: Home
