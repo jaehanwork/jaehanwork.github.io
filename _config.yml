@@ -31,6 +31,9 @@ collections:
   education:
     output: false
     sort_by: order
+  awards:
+    output: false
+    sort_by: order
   publications:
     output: true
     sort_by: year
