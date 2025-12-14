@@ -54,7 +54,7 @@ collections:
 collection_option:
   experience: 
     label: Experience
-    visibility: false
+    visibility: true
   education: 
     label: Education
     visibility: true
