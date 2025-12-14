@@ -4,6 +4,6 @@ institute: S2W Inc.
 institute-url: https://s2w.inc/ko
 duration: Dec. 2020 - Feb. 2021
 # excerpt: 
-order: 2
+order: 1
 # tags:
 ---
