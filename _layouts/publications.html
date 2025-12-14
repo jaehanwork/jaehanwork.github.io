@@ -4,7 +4,7 @@ layout: default
 <!-- PUBLICATIONS LIST -->
 <div class="ap-block">
     <p class="ap-subtitle"></p>
-    {% assign sorted_publications = site.data.publications | sort: "order" %}
+    {% assign sorted_publications = site.data.publications | sort: "order" | reverse %}
     {% for publication in sorted_publications %}
     <div class="ap-publication">
         <p class="ap-publication-title-list">{{publication.title}}</p>
