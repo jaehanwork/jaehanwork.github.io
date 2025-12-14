@@ -31,23 +31,8 @@ collections:
   education:
     output: false
     sort_by: order
-  projects:
-    output: true
-    sort_by: year
-  skills:
-    output: false
-    sort_by: order
   publications:
     output: true
-    sort_by: year
-  volunteerexperience:
-    output: false
-    sort_by: order
-  certifications:
-    output: false
-    sort_by: year
-  achievements:
-    output: false
     sort_by: year
 
 # Home Page Options
@@ -58,23 +43,8 @@ collection_option:
   education: 
     label: Education
     visibility: true
-  projects: 
-    label: Projects
-    visibility: false
-  skills: 
-    label: Technical Skills
-    visibility: false
   publications: 
     label: Publications
-    visibility: false
-  volunteerexperience: 
-    label: Volunteer Experience
-    visibility: false
-  certifications: 
-    label: Certifications
-    visibility: false
-  achievements: 
-    label: Achievements
     visibility: false
 
 navigation:
@@ -95,24 +65,10 @@ exclude:
 defaults:
   - scope:
       path: ''
-      type: posts
-    values:
-      permalink: /:categories/:year/:month/:title
-      layout: post
-      comments: true
-  - scope:
-      path: ''
-      type: projects
-    values:
-      permalink: /projects/:title
-      layout: project
-      comments: false
-  - scope:
-      path: ''
       type: publications
     values:
       permalink: /publications/:title
-      layout: publications
+      layout: publication
       comments: false
 
 # Disqus Comment
