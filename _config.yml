@@ -19,9 +19,9 @@ social:
   linkedin: 
     visibility: true
     handle: https://www.linkedin.com/in/jaehan-kim-1babb0252/
-  # twitter: 
-  #   visibility: true
-  #   handle: arnobdotme
+  cv:
+    visibility: true
+    handle: /files/Jaehan_Kim_CV.pdf
 
 # Collections
 collections:
