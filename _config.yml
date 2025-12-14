@@ -43,7 +43,7 @@ collection_option:
   education: 
     label: Education
     visibility: true
-  Awards: 
+  awards: 
     label: Awards
     visibility: true
 
