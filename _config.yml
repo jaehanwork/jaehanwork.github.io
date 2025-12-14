@@ -19,6 +19,9 @@ social:
   linkedin: 
     visibility: true
     handle: jaehan-kim-1babb0252
+  googlescholar: 
+    visibility: true
+    handle: https://scholar.google.com/citations?user=IT6ruf0AAAAJ&hl=en
   cv:
     visibility: true
     handle: /files/CV_Jaehan.pdf
