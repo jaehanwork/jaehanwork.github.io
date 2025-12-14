@@ -49,7 +49,7 @@ layout: default
 <!-- AWARDS -->
 <div class="ap-block">
     <p class="ap-subtitle">{{site.collection_option['awards']['label']}}</p>
-    {% assign sorted_awards = site.awards | sort: "order" %}
+    {% assign sorted_awards = site.data.awards | sort: "order" | reverse %}
     {% for awards in sorted_awards %}
     <div class="ap-awards">
         <p class="ap-awards-name">{{awards.name}}</p>
