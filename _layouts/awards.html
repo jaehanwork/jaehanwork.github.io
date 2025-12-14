@@ -8,9 +8,9 @@ layout: default
     {% for awards in sorted_awards %}
     <div class="ap-awards">
         <p class="ap-awards-name">{{awards.name}}</p>
-        <p class="ap-awards-institute">{{awards.institute}}</p>
-        <p class="ap-awards-year">{{awards.year}}</p>
         <p class="ap-awards-excerpt">{{awards.excerpt}}</p>
+        <p class="ap-awards-institute">{{awards.institute}}</p>
+        <p class="ap-awards-year"><em>{{awards.year}}</em></p>
     </div>
     {% endfor %}
 </div>

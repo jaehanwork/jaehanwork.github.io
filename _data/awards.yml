@@ -1,30 +1,48 @@
 # Awards ordered by recency
-- name: Distinguished Paper Award, ACSAC
+- name: Distinguished Paper Award
   institute: Annual Computer Security Applications Conference (ACSAC)
   year: 2025
+  excerpt: "MoEvil: Poisoning Expert to Compromise the Safety of Mixture-of-Experts LLMs"
   order: 6
 
-- name: 4th Prize, Cybersecurity Paper Competition
+- name: 4th Prize (장려상), Cybersecurity Paper Competition
   institute: Korean Association of Cybersecurity Studies (KACS)
   year: 2025
+  excerpt: Poisoning Expert to Compromise the Safety of Mixture-of-Experts LLMs
   order: 5
 
-- name: 4th Prize, Cybersecurity Paper Competition
+- name: 4th Prize (장려상), Cybersecurity Paper Competition
   institute: Korean Association of Cybersecurity Studies (KACS)
   year: 2024
+  excerpt: LLM Backdoor Defense within the Parameter-Efficient Fine-Tuning Paradigm
   order: 4
 
-- name: 2nd/4th/4th Prizes, Cybersecurity Paper Competition
+- name: 2nd Prize (최우수상), Cybersecurity Paper Competition
   institute: Korean Association of Cybersecurity Studies (KACS)
   year: 2023
+  excerpt: Graph-based Deep Learning Framework for Credential Stuffing Risk Prediction
   order: 3
 
-- name: 4th Prize, Samsung Humantech Paper Awards
+- name: 4th Prize (장려상), Cybersecurity Paper Competition
+  institute: Korean Association of Cybersecurity Studies (KACS)
+  year: 2023
+  excerpt: Delexicalized Distant Supervision for Illicit Drug Jargon Detection
+  order: 3
+
+- name: 4th Prize (장려상), Cybersecurity Paper Competition
+  institute: Korean Association of Cybersecurity Studies (KACS)
+  year: 2023
+  excerpt: Understanding the Occurrence and Impact of Credential Data Breach
+  order: 3
+
+- name: 4th Prize (동상), Samsung Humantech Paper Awards
   institute: Samsung Electronics
   year: 2021
+  excerpt: "Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic"
   order: 2
 
-- name: 4th Prize, Cybersecurity Paper Competition
+- name: 4th Prize (장려상), Cybersecurity Paper Competition
   institute: Korea Institute of Information Security and Cryptology (KIISC)
   year: 2021
+  excerpt: Fingerprinting Distributed SD-WAN Control-Plane Architecture via Encrypted Control Traffic
   order: 1
