@@ -20,14 +20,14 @@
 - title: "Obliviate: Neutralizing Task-Agnostic Backdoors within the Parameter-Efficient Fine-Tuning Paradigm"
   year: 2025
   authors: "<strong>J. Kim</strong>, M. Song, S.H. Na, S. Shin"
-  venue: "Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) (Findings)"
+  venue: "Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) Findings"
   type: conference
   order: 3
 
 - title: "Claim-Guided Textual Backdoor Attack for Practical Applications"
   year: 2025
   authors: "M. Song, H. Kim, <strong>J. Kim</strong>, Y. Jin, S. Shin"
-  venue: "Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) (Findings)"
+  venue: "Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) Findings"
   type: conference
   order: 4
 
