@@ -9,7 +9,7 @@ layout: default
     <div class="ap-publication">
         <p class="ap-publication-title-list">{{publication.title}}</p>
         <p class="ap-publication-authors">{{publication.authors}}</p>
-        <p class="ap-publication-venue"><em>{{publication.venue}}</em> {{publication.year}}{% if publication.note %} ({{publication.note}}){% endif %}{% if publication.award %} <strong style="color:#ff0000;"><br>({{publication.award}})</strong>{% endif %}</p>
+        <p class="ap-publication-venue"><em>{{publication.venue}}</em> {{publication.year}}{% if publication.note %} ({{publication.note}}){% endif %}{% if publication.award %} <strong style="color:#ff0000;"><br><em>({{publication.award}})</em></strong>{% endif %}</p>
     </div>
     {% endfor %}
 </div>
