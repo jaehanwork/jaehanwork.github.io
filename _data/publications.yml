@@ -5,7 +5,6 @@
   year: 2025
   authors: "<strong>J. Kim</strong>, M. Song, M. Seo, Y. Jin, S. Shin, J. Kim"
   venue: "Expert Systems with Applications (ESWA)"
-  note: "to appear"
   type: journal
   order: 1
 
@@ -14,7 +13,6 @@
   year: 2025
   authors: "<strong>J. Kim</strong>, S.H. Na, M. Song, S. Shin, S. Son"
   venue: "Annual Computer Security Applications Conference (ACSAC)"
-  note: "to appear"
   award: "Distinguished Paper Award"
   type: conference
   order: 2
