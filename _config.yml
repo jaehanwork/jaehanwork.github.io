@@ -1,9 +1,9 @@
-name: Arnob Karmokar
-tagline: Electrical and Electronic Engineer
-career-objective: This is a GitHub Pages template for academic portfolio websites. Fork <a href="https://github.com/academicportfolio/academicportfolio.github.io">this repository</a> to get started. This section will be replaced by your career objective. Read the README of the repository to learn about customizing the site.
+name: Jaehan Kim
+# tagline: Electrical and Electronic Engineer
+career-objective: ..
 color-theme: red # red or blue
-avatar-filename: avatar.png # Change to your avatar's filename
-url: academicportfolio.github.io
+avatar-filename: photo.jpg # Change to your avatar's filename
+url: jaehanwork.github.io
 baseurl: /
 paginate: 5
 paginate_path: "/blog/page:num/"
@@ -12,16 +12,16 @@ paginate_path: "/blog/page:num/"
 social:
   email: 
     visibility: true
-    mail: contact@arnob.me
+    mail: jaehan@kaist.ac.kr
   github: 
     visibility: true
-    handle: arnobk
+    handle: https://github.com/jaehanwork
   linkedin: 
     visibility: true
-    handle: arnobkarmokar
-  twitter: 
-    visibility: true
-    handle: arnobdotme
+    handle: https://www.linkedin.com/in/jaehan-kim-1babb0252/
+  # twitter: 
+  #   visibility: true
+  #   handle: arnobdotme
 
 # Collections
 collections:
@@ -80,7 +80,7 @@ collection_option:
 navigation:
 - title: About
   url: /
-- title: Blog
+- title: Publications
   url: /blog/
 - title: Contact
   url: /contact
