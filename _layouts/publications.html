@@ -8,7 +8,7 @@ layout: default
     {% for publication in sorted_publications %}
     <div class="ap-publication">
         <p class="ap-publication-title-list">{{publication.title}}</p>
-        <p class="ap-publication-excerpt">{{publication.authors}}. <em>{{publication.venue}}</em>{% if publication.note %} ({{publication.note}}){% endif %}{% if publication.award %} <strong style="color:#862B0D;">({{publication.award}})</strong>{% endif %}</p>
+        <p class="ap-publication-excerpt">{{publication.authors}}.<br><em>{{publication.venue}}</em>{% if publication.note %} ({{publication.note}}){% endif %}{% if publication.award %} <strong style="color:#862B0D;">({{publication.award}})</strong>{% endif %}</p>
     </div>
     {% endfor %}
 </div>
