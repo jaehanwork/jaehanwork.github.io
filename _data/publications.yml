@@ -1,5 +1,13 @@
 # Publications ordered as in CV
 
+- title: "Defending MoE LLMs against Harmful Fine-Tuning via Safety Routing Alignment"
+  year: 2025
+  authors: "<strong>J. Kim</strong>, M. Song, S. Shin, S. Son"
+  venue: "arXiv"
+  link: "https://arxiv.org/abs/2509.22745"
+  type: under-review
+  order: 19
+
 - title: "PassREfinder-FL: Privacy-Preserving Credential Stuffing Risk Prediction via Graph-Based Federated Learning for Representing Password Reuse between Websites"
   year: 2025
   authors: "<strong>J. Kim</strong>, M. Song, M. Seo, Y. Jin, S. Shin, J. Kim"
@@ -151,13 +159,7 @@
   order: 1
 
 # # Under Review
-# - title: "Defending MoE LLMs against Harmful Fine-Tuning via Safety Routing Alignment"
-#   year: 2025
-#   authors: "<strong>J. Kim</strong>, M. Song, S. Shin, S. Son"
-#   venue: "Submitted to International Conference on Learning Representations (ICLR)"
-#   link: "https://arxiv.org/abs/2509.22745"
-#   type: under-review
-#   order: 19
+
 
 # - title: "To Make Each Account Count: Exploring Credential Data Breach Threats through Victim-driven Analysis"
 #   year: 2025
