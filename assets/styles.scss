@@ -6,14 +6,6 @@ $link: #0099ff;
 $link: #862B0D;
 {% endif %}
 
-html {
-    font-size: 18px;
-}
-
-body {
-    zoom: 1.15;
-}
-
 * {
     margin: 0;
     padding: 0;
@@ -30,7 +22,7 @@ a:hover {
 }
 
 .ap-container {
-    width: 90%;
+    width: 100%;
     max-width: 800px;
     margin: 0 auto;
     margin-top: 64px;
