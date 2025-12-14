@@ -2,29 +2,19 @@
 - name: Distinguished Paper Award, ACSAC
   institute: Annual Computer Security Applications Conference (ACSAC)
   year: 2025
-  order: 8
+  order: 6
 
 - name: 4th Prize, Cybersecurity Paper Competition
   institute: Korean Association of Cybersecurity Studies (KACS)
   year: 2025
-  order: 7
-
-- name: 4th Prize, Cybersecurity Paper Competition
-  institute: Korean Association of Cybersecurity Studies (KACS)
-  year: 2024
-  order: 6
-
-- name: 2nd Prize, Cybersecurity Paper Competition
-  institute: Korean Association of Cybersecurity Studies (KACS)
-  year: 2023
   order: 5
 
 - name: 4th Prize, Cybersecurity Paper Competition
   institute: Korean Association of Cybersecurity Studies (KACS)
-  year: 2023
+  year: 2024
   order: 4
 
-- name: 4th Prize, Cybersecurity Paper Competition
+- name: 2nd/4th/4th Prizes, Cybersecurity Paper Competition
   institute: Korean Association of Cybersecurity Studies (KACS)
   year: 2023
   order: 3
