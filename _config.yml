@@ -50,7 +50,7 @@ collections:
     output: false
     sort_by: year
 
-# About Page Options
+# Home Page Options
 collection_option:
   experience: 
     label: Experience

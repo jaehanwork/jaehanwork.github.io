@@ -1,5 +1,5 @@
 ---
 title: Home
-layout: about
+layout: home
 permalink: "/home"
 ---
