@@ -54,34 +54,34 @@ collections:
 collection_option:
   experience: 
     label: Experience
-    visibility: true
+    visibility: false
   education: 
     label: Education
     visibility: true
   projects: 
     label: Projects
-    visibility: true
+    visibility: false
   skills: 
     label: Technical Skills
-    visibility: true
+    visibility: false
   publications: 
     label: Publications
-    visibility: true
+    visibility: false
   volunteerexperience: 
     label: Volunteer Experience
-    visibility: true
+    visibility: false
   certifications: 
     label: Certifications
-    visibility: true
+    visibility: false
   achievements: 
     label: Achievements
-    visibility: true
+    visibility: false
 
 navigation:
-- title: About
-  url: /
+- title: Home
+  url: /home
 - title: Publications
-  url: /blog/
+  url: /publications
 - title: Contact
   url: /contact
 
