@@ -15,10 +15,10 @@ social:
     mail: jaehan@kaist.ac.kr
   github: 
     visibility: true
-    handle: https://github.com/jaehanwork
+    handle: jaehanwork
   linkedin: 
     visibility: true
-    handle: https://www.linkedin.com/in/jaehan-kim-1babb0252/
+    handle: jaehan-kim-1babb0252
   cv:
     visibility: true
     handle: /files/CV_Jaehan.pdf
