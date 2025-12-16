@@ -1,7 +1,5 @@
 ---
 ---
-@import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;600&family=Manrope:wght@500&family=Inter:wght@400&family=DM+Sans:wght@400;600&display=swap');
-
 {% if site.color-theme == "blue" %}
 $link: #0099ff;
 {% elsif site.color-theme == "red" %}
