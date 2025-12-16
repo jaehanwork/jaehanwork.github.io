@@ -5,9 +5,9 @@ layout: default
     <!-- {{site.career-objective}} -->
     <p class="ap-subtitle">Research Interests</p>
     <ul>
-        <li>AI Security & Privacy</li>
-        <li>Large Language Models (LLMs)</li>
-        <li>AI-Driven Cybersecurity</li>
+        <li style="margin-left: 20px;">AI Security & Privacy</li>
+        <li style="margin-left: 20px;">Large Language Models (LLMs)</li>
+        <li style="margin-left: 20px;">AI-Driven Cybersecurity</li>
     </ul>
 </div>
 
@@ -19,7 +19,7 @@ layout: default
     {% assign sorted_experience = site.data.experience | sort: "order" | reverse %}
     {% for experience in sorted_experience %}
     <div class="ap-experience">
-        <p class="ap-experience-institute"><a href="{{experience.institute_url}}" target="_blank" rel="noopener noreferrer">{{experience.institute}}</a></p>
+        <p class="ap-experience-institute"><a href="{{experience.institute_url}}" target="_blank" rel="noopener noreferrer" style="color: #862B0D;">{{experience.institute}}</a></p>
         <p class="ap-experience-title">{{experience.title}}</p>
         <p class="ap-experience-year">{{experience.duration}}</p>
         <p class="ap-experience-excerpt">{{experience.excerpt}}</p>
