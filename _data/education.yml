@@ -1,25 +1,25 @@
 # Education ordered by recency
 
-- degree: Ph.D. in Electrical Engineering
-  institute: KAIST
+- degree: Ph.D. in Electrical Engineering, KAIST
+  # institute: KAIST
   duration: 2022 - 2026 (expected)
   excerpt: "Dissertation: Securing Efficient Techniques for Large Language Model Development<br>Advisor: <a href='https://nss.kaist.ac.kr/?page_id=29' target='_blank' rel='noopener noreferrer'>Seungwon Shin</a>"
   order: 4
 
-- degree: M.S. in Electrical Engineering
-  institute: KAIST
+- degree: M.S. in Electrical Engineering, KAIST
+  # institute: KAIST
   duration: 2020 - 2022
   excerpt: "Advisor: <a href='https://nss.kaist.ac.kr/?page_id=29' target='_blank' rel='noopener noreferrer'>Seungwon Shin</a>"
   order: 3
 
-- degree: B.S. in Electrical Engineering
-  institute: KAIST
+- degree: B.S. in Electrical Engineering, KAIST
+  # institute: KAIST
   duration: 2016 - 2020
   excerpt: "Minor in Computer Science"
   order: 2
 
-- degree: High School Diploma
-  institute: Korea Science Academy
+- degree: High School Diploma, Korea Science Academy
+  # institute: Korea Science Academy
   duration: 2012 - 2015
   excerpt: ""
   order: 1
