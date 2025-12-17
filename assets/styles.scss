@@ -359,12 +359,13 @@ a:hover {
     font-weight: bold;
     color: $link !important;
     background-color: transparent;
-    border: 3px solid $link;
+    border: 2px solid $link;
     padding: 3px 6px;
     border-radius: 8px;
     text-decoration: none !important;
     transition: all 0.3s ease;
     vertical-align: middle;
+    margin-top: 8px;
 }
 
 .ap-paper-button:hover {
