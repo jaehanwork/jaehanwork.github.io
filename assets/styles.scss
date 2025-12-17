@@ -358,19 +358,19 @@ a:hover {
     font-size: 13px;
     font-weight: 500;
     color: #ffffff !important;
-    background-color: #ff0000;
-    padding: 4px 12px;
-    border-radius: 6px;
+    background-color: $link;
+    padding: 5px 14px;
+    border-radius: 8px;
     text-decoration: none !important;
     transition: all 0.3s ease;
-    margin-left: 8px;
     vertical-align: middle;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
 }
 
 .ap-paper-button:hover {
-    background-color: #cc0000;
-    transform: translateY(-1px);
-    box-shadow: 0 2px 8px rgba(255, 0, 0, 0.3);
+    background-color: darken($link, 10%);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     text-decoration: none !important;
 }
 
