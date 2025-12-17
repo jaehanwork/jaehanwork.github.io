@@ -355,12 +355,12 @@ a:hover {
 .ap-paper-button {
     display: inline-block;
     font-family: "DM Sans", sans-serif;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: bold;
     color: $link !important;
     background-color: transparent;
     border: 1.5px solid $link;
-    padding: 0 0;
+    padding: 0 6px;
     border-radius: 8px;
     text-decoration: none !important;
     transition: all 0.3s ease;
