@@ -7,9 +7,10 @@ layout: default
     {% assign sorted_publications = site.data.publications | sort: "order" | reverse %}
     {% for publication in sorted_publications %}
     <div class="ap-publication">
-        <p class="ap-publication-title-list">{{publication.title}} {% if publication.link and publication.link != "" %}<p><a href="{{publication.link}}" class="ap-paper-button" target="_blank">Paper</a></p>{% endif %}</p>
+        <p class="ap-publication-title-list">{{publication.title}}</p> {% if publication.link and publication.link != "" %}<p><a href="{{publication.link}}" class="ap-paper-button" target="_blank">Paper</a></p>{% endif %}
         <p class="ap-publication-authors">{{publication.authors}}</p>
         <p class="ap-publication-venue"><em>{{publication.venue}}</em> {{publication.year}}{% if publication.note %} ({{publication.note}}){% endif %}{% if publication.award %} <strong style="color:#ff0000;"><br><em>({{publication.award}})</em></strong>{% endif %}</p>
+        
     </div>
     {% endfor %}
 </div>
