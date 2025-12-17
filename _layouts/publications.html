@@ -10,7 +10,7 @@ layout: default
         <p class="ap-publication-title-list">{{publication.title}}</p>
         <p class="ap-publication-authors">{{publication.authors}}</p>
         <p class="ap-publication-venue"><em>{{publication.venue}}</em> {{publication.year}}{% if publication.note %} ({{publication.note}}){% endif %}{% if publication.award %} <strong style="color:#ff0000;"><br><em>({{publication.award}})</em></strong>{% endif %}</p>
-        {% if publication.link and publication.link != "" or publication.code and publication.code != "" %}<p>{% if publication.link and publication.link != "" %}<a href="{{publication.link}}" class="ap-paper-button" target="_blank">Paper</a>{% endif %} {% if publication.code and publication.code != "" %}<a href="{{publication.code}}" class="ap-paper-button" target="_blank">Code</a>{% endif %}</p>{% endif %}
+        {% if publication.link and publication.link != "" or publication.code and publication.code != "" %}<p>{% if publication.link and publication.link != "" %}<a href="{{publication.link}}" class="ap-paper-button" target="_blank">Paper</a>{% endif %}   {% if publication.code and publication.code != "" %}<a href="{{publication.code}}" class="ap-paper-button" target="_blank">Code</a>{% endif %}</p>{% endif %}
     </div>
     {% endfor %}
 </div>
