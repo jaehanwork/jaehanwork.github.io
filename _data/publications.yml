@@ -14,6 +14,7 @@
   venue: "Expert Systems with Applications (ESWA)"
   # link: "https://arxiv.org/abs/2510.16083"
   link: "https://www.sciencedirect.com/science/article/abs/pii/S0957417425036954"
+  code: "https://github.com/jaehanwork/PassREfinder-FL"
   type: journal
   order: 18
 
@@ -23,6 +24,7 @@
   venue: "Annual Computer Security Applications Conference (ACSAC)"
   award: "Distinguished Paper Award"
   link: ""
+  code: "https://github.com/jaehanwork/MoEvil"
   type: conference
   order: 17
 
@@ -31,6 +33,7 @@
   authors: "<strong>J. Kim</strong>, M. Song, S.H. Na, S. Shin"
   venue: "Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) Findings"
   link: "https://aclanthology.org/2025.findings-naacl.71/"
+  code: "https://github.com/jaehanwork/Obliviate"
   type: conference
   order: 16
 
