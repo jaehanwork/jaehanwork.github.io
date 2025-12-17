@@ -42,6 +42,7 @@
   authors: "M. Song, H. Kim, <strong>J. Kim</strong>, Y. Jin, S. Shin"
   venue: "Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) Findings"
   link: "https://aclanthology.org/2025.findings-naacl.64/"
+  code: "https://github.com/minkyoo9/CGBA"
   type: conference
   order: 15
 
@@ -50,6 +51,7 @@
   authors: "M. Song, H. Kim, <strong>J. Kim</strong>, S. Shin, S. Son"
   venue: "USENIX Security Symposium (USENIX Security)"
   link: "https://www.usenix.org/conference/usenixsecurity25/presentation/song-minkyoo"
+  code: "https://github.com/minkyoo9/Unlearning-safety-alignment"
   type: conference
   order: 14
 
@@ -58,6 +60,7 @@
   authors: "M. Song, E. Jang, <strong>J. Kim</strong>, S. Shin"
   venue: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
   link: "https://dl.acm.org/doi/10.1145/3690624.3709183"
+  code: "https://github.com/minkyoo9/JEDIS"
   type: conference
   order: 13
 
@@ -74,6 +77,7 @@
   authors: "G. Park, <strong>J. Kim</strong>, J. Choi, J. Kim"
   venue: "ACM Asia Conference on Computer and Communications Security (ASIACCS)"
   link: "https://dl.acm.org/doi/10.1145/3708821.3736186"
+  code: "https://github.com/PGHOON/CryptoGuard"
   type: conference
   order: 11
 
@@ -90,6 +94,7 @@
   authors: "<strong>J. Kim</strong>, M. Song, M. Seo, Y. Jin, S. Shin"
   venue: "IEEE Symposium on Security and Privacy (S&P)"
   link: "https://ieeexplore.ieee.org/document/10646687"
+  code: "https://github.com/jaehanwork/passrefinder-public"
   type: conference
   order: 9
 
