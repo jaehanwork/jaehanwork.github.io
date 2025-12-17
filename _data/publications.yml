@@ -112,18 +112,18 @@
 
 - title: "gShock: A GNN-based Fingerprinting System for Permissioned Blockchain Networks over Encrypted Channels"
   year: 2024
-  authors: "M. Seo*, <strong>J. Kim*</strong>, M. You, S. Shin, J. Kim"
+  authors: "M. Seo*, <strong>J. Kim*</strong>, M. You, S. Shin, J. Kim (*equally contributed)"
   venue: "IEEE Access"
-  note: "*equally contributed"
+  # note: ""
   link: "https://ieeexplore.ieee.org/abstract/document/10697129"
   type: journal
   order: 6
 
 - title: "CENSor: Detecting Illicit Bitcoin Operation via GCN-Based Hyperedge Classification"
   year: 2024
-  authors: "S. Lee*, <strong>J. Kim*</strong>, M. Seo, S.H. Na, S. Shin, J. Kim"
+  authors: "S. Lee*, <strong>J. Kim*</strong>, M. Seo, S.H. Na, S. Shin, J. Kim (*equally contributed)"
   venue: "IEEE Access"
-  note: "*equally contributed"
+  # note: ""
   link: "https://ieeexplore.ieee.org/abstract/document/10689425"
   type: journal
   order: 5
@@ -155,9 +155,9 @@
 
 - title: "A Large-Scale Bitcoin Abuse Measurement and Clustering Analysis Utilizing Public Reports"
   year: 2022
-  authors: "J. Choi*, <strong>J. Kim*</strong>, M. Song, H. Kim, N. Park, M. Seo, Y. Jin, S. Shin"
+  authors: "J. Choi*, <strong>J. Kim*</strong>, M. Song, H. Kim, N. Park, M. Seo, Y. Jin, S. Shin (*equally contributed)"
   venue: "IEICE Transactions on Information and Systems"
-  note: "*equally contributed"
+  # note: ""
   link: "https://globals.ieice.org/en_transactions/information/10.1587/transinf.2021EDP7182/_p"
   type: journal
   order: 1
