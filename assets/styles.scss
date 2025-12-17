@@ -352,6 +352,28 @@ a:hover {
     line-height: 1.4em;
 }
 
+.ap-paper-button {
+    display: inline-block;
+    font-family: "DM Sans", sans-serif;
+    font-size: 13px;
+    font-weight: 500;
+    color: #ffffff !important;
+    background-color: #ff0000;
+    padding: 4px 12px;
+    border-radius: 6px;
+    text-decoration: none !important;
+    transition: all 0.3s ease;
+    margin-left: 8px;
+    vertical-align: middle;
+}
+
+.ap-paper-button:hover {
+    background-color: #cc0000;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(255, 0, 0, 0.3);
+    text-decoration: none !important;
+}
+
 .ap-publication-year {
     font-family: "DM Sans", sans-serif;
     font-size: 16px;
