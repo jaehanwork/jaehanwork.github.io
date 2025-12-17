@@ -12,7 +12,8 @@
   year: 2025
   authors: "<strong>J. Kim</strong>, M. Song, M. Seo, Y. Jin, S. Shin, J. Kim"
   venue: "Expert Systems with Applications (ESWA)"
-  link: "https://arxiv.org/abs/2510.16083"
+  # link: "https://arxiv.org/abs/2510.16083"
+  link: "https://www.sciencedirect.com/science/article/abs/pii/S0957417425036954"
   type: journal
   order: 18
 
