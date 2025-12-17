@@ -3,12 +3,18 @@
   institute: Annual Computer Security Applications Conference (ACSAC)
   year: 2025
   excerpt: "MoEvil: Poisoning Expert to Compromise the Safety of Mixture-of-Experts LLMs"
-  order: 8
+  order: 9
 
 - name: 4th Prize (장려상), Cybersecurity Paper Competition
   institute: Korean Association of Cybersecurity Studies (KACS)
   year: 2025
   excerpt: Poisoning Expert to Compromise the Safety of Mixture-of-Experts LLMs
+  order: 8
+
+- name: 2nd Prize (최우수상), Cybersecurity Paper Competition
+  institute: Korean Association of Cybersecurity Studies (KACS)
+  year: 2024
+  excerpt: Lightweight Hybrid Detection and Response to Host-based Cryptojackers in Linux Cloud Environments
   order: 7
 
 - name: 4th Prize (장려상), Cybersecurity Paper Competition
