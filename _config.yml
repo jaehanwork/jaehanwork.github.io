@@ -1,7 +1,7 @@
 name: Jaehan Kim
 tagline: 'Ph.D. Candidate<br><a href="https://nss.kaist.ac.kr" target="_blank" rel="noopener noreferrer" style="color: #862B0D;">NSS Lab</a>, KAIST'
 # career-objective: ..
-color-theme: red # red or blue
+color-theme: blue # red or blue
 avatar-filename: photo.jpg # Change to your avatar's filename
 url: jaehanwork.github.io
 baseurl: /
