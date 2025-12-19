@@ -136,7 +136,7 @@
 # 2022 Papers
 - title: "Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic"
   year: 2022
-  authors: "Minjae Seo, <strong>Jaehan Kim</strong>, E. Marin, Myoungsung You, Taejune Park, S. Lee, Seungwon Shin, Jinwoo Kim"
+  authors: "Minjae Seo, <strong>Jaehan Kim</strong>, Eduard Marin, Myoungsung You, Taejune Park, Seungsoo Lee, Seungwon Shin, Jinwoo Kim"
   venue: "Annual Computer Security Applications Conference (ACSAC)"
   link: "https://dl.acm.org/doi/10.1145/3564625.3564642"
   type: conference
@@ -160,7 +160,7 @@
 
 - title: "A Large-Scale Bitcoin Abuse Measurement and Clustering Analysis Utilizing Public Reports"
   year: 2022
-  authors: "Jinho Choi*, <strong>Jaehan Kim*</strong>, Minkyoo Song, H. Kim, Nahyeon Park, Minjae Seo, Youngjin Jin, Seungwon Shin (*equally contributed)"
+  authors: "Jinho Choi*, <strong>Jaehan Kim*</strong>, Minkyoo Song, Hanna Kim, Nahyeon Park, Minjae Seo, Youngjin Jin, Seungwon Shin (*equally contributed)"
   venue: "IEICE Transactions on Information and Systems"
   # note: ""
   link: "https://globals.ieice.org/en_transactions/information/10.1587/transinf.2021EDP7182/_p"
