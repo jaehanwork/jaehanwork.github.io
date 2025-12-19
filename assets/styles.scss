@@ -326,7 +326,8 @@ a:hover {
     font-family: "DM Sans", sans-serif;
     font-size: 18px;
     font-weight: 600;
-    color: #444444;
+    // color: #444444;
+    color: $link !important;
     margin-bottom: 4px;
     line-height: 1.4em;
 }
