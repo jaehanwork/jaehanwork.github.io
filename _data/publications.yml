@@ -2,7 +2,7 @@
 
 - title: "Defending MoE LLMs against Harmful Fine-Tuning via Safety Routing Alignment"
   year: 2025
-  authors: "<strong>J. Kim</strong>, M. Song, S. Shin, S. Son"
+  authors: "<strong>Jaehan Kim</strong>, Minkyoo Song, Seungwon Shin, Sooel Son"
   venue: "arXiv"
   link: "https://arxiv.org/abs/2509.22745"
   type: under-review
@@ -10,7 +10,7 @@
 
 - title: "PassREfinder-FL: Privacy-Preserving Credential Stuffing Risk Prediction via Graph-Based Federated Learning for Representing Password Reuse between Websites"
   year: 2025
-  authors: "<strong>J. Kim</strong>, M. Song, M. Seo, Y. Jin, S. Shin, J. Kim"
+  authors: "<strong>Jaehan Kim</strong>, Minkyoo Song, Minjae Seo, Youngjin Jin, Seungwon Shin, Jinwoo Kim"
   venue: "Expert Systems with Applications (ESWA)"
   # link: "https://arxiv.org/abs/2510.16083"
   link: "https://www.sciencedirect.com/science/article/abs/pii/S0957417425036954"
@@ -20,7 +20,7 @@
 
 - title: "MoEvil: Poisoning Expert to Compromise the Safety of Mixture-of-Experts LLMs"
   year: 2025
-  authors: "<strong>J. Kim</strong>, S.H. Na, M. Song, S. Shin, S. Son"
+  authors: "<strong>Jaehan Kim</strong>, Seung Ho Na, Minkyoo Song, Seungwon Shin, Sooel Son"
   venue: "Annual Computer Security Applications Conference (ACSAC)"
   award: "Distinguished Paper Award"
   link: "/files/moevil.pdf"
@@ -30,7 +30,7 @@
 
 - title: "Obliviate: Neutralizing Task-Agnostic Backdoors within the Parameter-Efficient Fine-Tuning Paradigm"
   year: 2025
-  authors: "<strong>J. Kim</strong>, M. Song, S.H. Na, S. Shin"
+  authors: "<strong>Jaehan Kim</strong>, Minkyoo Song, Seung Ho Na, Seungwon Shin"
   venue: "Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) Findings"
   link: "https://aclanthology.org/2025.findings-naacl.71/"
   code: "https://github.com/jaehanwork/Obliviate"
@@ -39,7 +39,7 @@
 
 - title: "Claim-Guided Textual Backdoor Attack for Practical Applications"
   year: 2025
-  authors: "M. Song, H. Kim, <strong>J. Kim</strong>, Y. Jin, S. Shin"
+  authors: "Minkyoo Song, Hanna Kim, <strong>Jaehan Kim</strong>, Youngjin Jin, Seungwon Shin"
   venue: "Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL) Findings"
   link: "https://aclanthology.org/2025.findings-naacl.64/"
   code: "https://github.com/minkyoo9/CGBA"
@@ -48,7 +48,7 @@
 
 - title: "Refusal Is Not an Option: Unlearning Safety Alignment of Large Language Models"
   year: 2025
-  authors: "M. Song, H. Kim, <strong>J. Kim</strong>, S. Shin, S. Son"
+  authors: "Minkyoo Song, Hanna Kim, <strong>Jaehan Kim</strong>, Seungwon Shin, Sooel Son"
   venue: "USENIX Security Symposium (USENIX Security)"
   link: "https://www.usenix.org/conference/usenixsecurity25/presentation/song-minkyoo"
   code: "https://github.com/minkyoo9/Unlearning-safety-alignment"
@@ -57,7 +57,7 @@
 
 - title: "Covering Cracks in Content Moderation: Delexicalized Distant Supervision for Illicit Drug Jargon Detection"
   year: 2025
-  authors: "M. Song, E. Jang, <strong>J. Kim</strong>, S. Shin"
+  authors: "Minkyoo Song, Eugene Jang, <strong>Jaehan Kim</strong>, Seungwon Shin"
   venue: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
   link: "https://dl.acm.org/doi/10.1145/3690624.3709183"
   code: "https://github.com/minkyoo9/JEDIS"
@@ -66,7 +66,7 @@
 
 - title: "MUFFLER: Secure Tor Traffic Obfuscation with Dynamic Connection Shuffling and Splitting"
   year: 2025
-  authors: "M. Seo, M. You, <strong>J. Kim</strong>, T. Park, S. Shin, J. Kim"
+  authors: "Minjae Seo, Myoungsung You, <strong>Jaehan Kim</strong>, Taejune Park, Seungwon Shin, Jinwoo Kim"
   venue: "IEEE International Conference on Computer Communications (INFOCOM)"
   link: "https://ieeexplore.ieee.org/abstract/document/11044472"
   type: conference
@@ -74,7 +74,7 @@
 
 - title: "CryptoGuard: Lightweight Hybrid Detection and Prevention of Host-Based Cryptojackers"
   year: 2025
-  authors: "G. Park, <strong>J. Kim</strong>, J. Choi, J. Kim"
+  authors: "Gyeonghoon Park, <strong>Jaehan Kim</strong>, Jinu Choi, Jinwoo Kim"
   venue: "ACM Asia Conference on Computer and Communications Security (ASIACCS)"
   link: "https://dl.acm.org/doi/10.1145/3708821.3736186"
   code: "https://github.com/PGHOON/CryptoGuard"
@@ -83,7 +83,7 @@
 
 - title: "AVXProbe: Enhancing Website Fingerprinting with Side-Channel Assisted Kernel-Level Traces"
   year: 2025
-  authors: "S. Kim, S.H. Na, <strong>J. Kim</strong>, S. Shin, H. Choi"
+  authors: "Suryeon Kim, Seung Ho Na, <strong>Jaehan Kim</strong>, Seungwon Shin, Hyunwoo Choi"
   venue: "ACM Asia Conference on Computer and Communications Security (ASIACCS)"
   link: "https://dl.acm.org/doi/10.1145/3708821.3710819"
   type: conference
@@ -91,7 +91,7 @@
 
 - title: "PassREfinder: Credential Stuffing Risk Prediction by Representing Password Reuse between Websites on a Graph"
   year: 2024
-  authors: "<strong>J. Kim</strong>, M. Song, M. Seo, Y. Jin, S. Shin"
+  authors: "<strong>Jaehan Kim</strong>, Minkyoo Song, Minjae Seo, Youngjin Jin, Seungwon Shin"
   venue: "IEEE Symposium on Security and Privacy (S&P)"
   link: "https://ieeexplore.ieee.org/document/10646687"
   code: "https://github.com/jaehanwork/passrefinder-public"
@@ -100,7 +100,7 @@
 
 - title: "HardWhale: A Hardware-Isolated Network Security Enforcement System for Cloud Environments"
   year: 2024
-  authors: "M. You, J. Nam, H. Seo, M. Seo, <strong>J. Kim</strong>, D. Choi, S. Shin"
+  authors: "Myoungsung You, Jaehyun Nam, Hyunmin Seo, Minjae Seo, <strong>Jaehan Kim</strong>, Dongmin Choi, Seungwon Shin"
   venue: "International Conference on Distributed Computing Systems (ICDCS)"
   link: "https://ieeexplore.ieee.org/abstract/document/10630989"
   type: conference
@@ -109,7 +109,7 @@
 # Journal Papers (2024)
 - title: "Hyperion: Hardware-Based High-Performance and Secure System for Container Networks"
   year: 2024
-  authors: "M. You, M. Seo, <strong>J. Kim</strong>, S. Shin, J. Nam"
+  authors: "Myoungsung You, Minjae Seo, <strong>Jaehan Kim</strong>, Seungwon Shin, Jaehyun Nam"
   venue: "IEEE Transactions on Cloud Computing (TCC)"
   link: "https://ieeexplore.ieee.org/abstract/document/10535194"
   type: journal
@@ -117,7 +117,7 @@
 
 - title: "gShock: A GNN-based Fingerprinting System for Permissioned Blockchain Networks over Encrypted Channels"
   year: 2024
-  authors: "M. Seo*, <strong>J. Kim*</strong>, M. You, S. Shin, J. Kim (*equally contributed)"
+  authors: "Minjae Seo*, <strong>Jaehan Kim*</strong>, Myoungsung You, Seungwon Shin, Jinwoo Kim (*equally contributed)"
   venue: "IEEE Access"
   # note: ""
   link: "https://ieeexplore.ieee.org/abstract/document/10697129"
@@ -126,7 +126,7 @@
 
 - title: "CENSor: Detecting Illicit Bitcoin Operation via GCN-Based Hyperedge Classification"
   year: 2024
-  authors: "S. Lee*, <strong>J. Kim*</strong>, M. Seo, S.H. Na, S. Shin, J. Kim (*equally contributed)"
+  authors: "Suyeol Lee*, <strong>Jaehan Kim*</strong>, Minjae Seo, Seung Ho Na, Seungwon Shin, Jinwoo Kim (*equally contributed)"
   venue: "IEEE Access"
   # note: ""
   link: "https://ieeexplore.ieee.org/abstract/document/10689425"
@@ -136,7 +136,7 @@
 # 2022 Papers
 - title: "Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic"
   year: 2022
-  authors: "M. Seo, <strong>J. Kim</strong>, E. Marin, M. You, T. Park, S. Lee, S. Shin, J. Kim"
+  authors: "Minjae Seo, <strong>Jaehan Kim</strong>, E. Marin, Myoungsung You, Taejune Park, S. Lee, Seungwon Shin, Jinwoo Kim"
   venue: "Annual Computer Security Applications Conference (ACSAC)"
   link: "https://dl.acm.org/doi/10.1145/3564625.3564642"
   type: conference
@@ -144,7 +144,7 @@
 
 - title: "FuzzDocs: An Automated Security Evaluation Framework for IoT"
   year: 2022
-  authors: "M. You, Y. Kim, <strong>J. Kim</strong>, M. Seo, S. Son, S. Shin, S. Lee"
+  authors: "Myoungsung You, Yeonkeun Kim, <strong>Jaehan Kim</strong>, Minjae Seo, Sooel Son, Seungwon Shin, Seungsoo Lee"
   venue: "IEEE Access"
   link: "https://ieeexplore.ieee.org/document/9895405"
   type: journal
@@ -152,7 +152,7 @@
 
 - title: "Revisiting Security Landscape of Docker Hub Container"
   year: 2022
-  authors: "M. You, <strong>J. Kim</strong>, S. Shin"
+  authors: "Myoungsung You, <strong>Jaehan Kim</strong>, Seungwon Shin"
   venue: "The Journal of Korean Institute of Communications and Information Sciences"
   link: "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11116990"
   type: journal
@@ -160,7 +160,7 @@
 
 - title: "A Large-Scale Bitcoin Abuse Measurement and Clustering Analysis Utilizing Public Reports"
   year: 2022
-  authors: "J. Choi*, <strong>J. Kim*</strong>, M. Song, H. Kim, N. Park, M. Seo, Y. Jin, S. Shin (*equally contributed)"
+  authors: "Jinho Choi*, <strong>Jaehan Kim*</strong>, Minkyoo Song, H. Kim, Nahyeon Park, Minjae Seo, Youngjin Jin, Seungwon Shin (*equally contributed)"
   venue: "IEICE Transactions on Information and Systems"
   # note: ""
   link: "https://globals.ieice.org/en_transactions/information/10.1587/transinf.2021EDP7182/_p"
@@ -172,16 +172,10 @@
 
 # - title: "To Make Each Account Count: Exploring Credential Data Breach Threats through Victim-driven Analysis"
 #   year: 2025
-#   authors: "<strong>J. Kim</strong>, M. Seo, M. Song, S. Shin, J. Kim"
+#   authors: "<strong>Jaehan Kim</strong>, Minjae Seo, Minkyoo Song, Seungwon Shin, Jinwoo Kim"
 #   venue: "Submitted to Elsevier Computers & Security"
 #   link: ""
 #   type: under-review
 #   order: 20
 
-# - title: "Assessing Hallucination in Large Language Models for Cyber Threat Intelligence: A First Measurement Study"
-#   year: 2025
-#   authors: "S. Song, D. Lee, <strong>J. Kim</strong>, J. Choi, J. Kim"
-#   venue: "Submitted to Elsevier Engineering Applications of Artificial Intelligence (EAAI)"
-#   link: ""
-#   type: under-review
-#   order: 21
+
