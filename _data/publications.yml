@@ -12,8 +12,8 @@
   year: 2025
   authors: "<strong>Jaehan Kim</strong>, Minkyoo Song, Minjae Seo, Youngjin Jin, Seungwon Shin, Jinwoo Kim"
   venue: "Expert Systems with Applications (ESWA)"
-  # link: "https://arxiv.org/abs/2510.16083"
-  link: "https://www.sciencedirect.com/science/article/abs/pii/S0957417425036954"
+  link: "https://arxiv.org/abs/2510.16083"
+  # link: "https://www.sciencedirect.com/science/article/abs/pii/S0957417425036954"
   code: "https://github.com/jaehanwork/PassREfinder-FL"
   type: journal
   order: 18
