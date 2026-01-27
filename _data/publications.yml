@@ -1,7 +1,7 @@
 # Publications ordered as in CV
 
 - title: "SafeMoE: Safe Fine-Tuning for MoE LLMs by Aligning Harmful Input Routing"
-  year: 2025
+  year: 2026
   authors: "<strong>Jaehan Kim</strong>, Minkyoo Song, Seungwon Shin, Sooel Son"
   venue: "International Conference on Learning Representations (ICLR) (to appear)"
   link: "https://arxiv.org/abs/2509.22745"
