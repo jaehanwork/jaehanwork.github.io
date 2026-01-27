@@ -1,11 +1,11 @@
 # Publications ordered as in CV
 
-- title: "Defending MoE LLMs against Harmful Fine-Tuning via Safety Routing Alignment"
+- title: "SafeMoE: Safe Fine-Tuning for MoE LLMs by Aligning Harmful Input Routing"
   year: 2025
   authors: "<strong>Jaehan Kim</strong>, Minkyoo Song, Seungwon Shin, Sooel Son"
-  venue: "arXiv"
+  venue: "International Conference on Learning Representations (ICLR) (to appear)"
   link: "https://arxiv.org/abs/2509.22745"
-  type: under-review
+  type: conference
   order: 19
 
 - title: "PassREfinder-FL: Privacy-Preserving Credential Stuffing Risk Prediction via Graph-Based Federated Learning for Representing Password Reuse between Websites"
