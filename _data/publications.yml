@@ -3,7 +3,7 @@
 - title: "SafeMoE: Safe Fine-Tuning for MoE LLMs by Aligning Harmful Input Routing"
   year: 2026
   authors: "<strong>Jaehan Kim</strong>, Minkyoo Song, Seungwon Shin, Sooel Son"
-  venue: "International Conference on Learning Representations (ICLR) (to appear)"
+  venue: "International Conference on Learning Representations (ICLR)"
   link: "https://openreview.net/forum?id=W1x9AzkSnU"
   code: "https://github.com/jaehanwork/SafeMoE"
   type: conference
